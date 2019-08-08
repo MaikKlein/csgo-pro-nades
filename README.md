@@ -123,3 +123,13 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 
 #### Appartements Retake B
 `setpos 1983.599365 1225.968750 238.093811;setang -34.763512 -89.276062 0.000000`
+
+## Train
+
+## T Smokes
+
+#### Connector smoke for B
+
+**Break window before the throw**
+
+`setpos -653.997253 -484.619720 80.031250;setang 317.982788 352.254639 0.00000`
