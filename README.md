@@ -64,7 +64,7 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 #### CT(B)
 `setpos 416.431091 1768.544800 192.542191;setang -47.716454 67.497147 -0.000001`
 
-### Retake Banana(B)
+#### Retake Banana(B)
 **Walk throw** `setpos -857.997375 437.790283 33.254772;setang -53.454433 50.409794 0.000000`
 
 ### T Smokes
