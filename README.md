@@ -139,3 +139,20 @@ far `setpos 460.446472 1828.490479 200.176590;setang -22.988878 84.052841 0.0000
 ##### Upper Banana cutoff
 `setpos -79.450539 1330.017334 170.773438;setang -23.337646 45.860989 0.000000`
 
+
+## Train
+
+### T Smokes
+
+#### Connector smoke for B
+
+**Break window before the throw**
+
+`setpos -653.997253 -484.619720 80.031250;setang 317.982788 352.254639 0.00000`
+
+#### Electric (A)
+
+`setpos -755.606750 1447.796631 -158.565170;setang 308.600464 295.015869 -0.000042` 
+
+#### Between green and red (A)
+`setpos -821.888062 1268.460083 -158.968750;setang 322.399292 316.851196 0.000002`
