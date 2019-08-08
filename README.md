@@ -45,28 +45,49 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 
 ## Inferno
 
-### T Smokes
-#### Smokes off pit (A)
-
-`setpos 721.004272 48.941219 158.174011;setang 304.178467 3.999023 0.000058`
+### Essential T Smokes
 
 #### Scooter (A)
 
 `setpos 964.412109 434.006866 152.087219;setang 315.900879 13.013306 0.000000`
 
+#### Long smoke (A)
+
+`setpos 785.031250 -300.915161 162.930710;setang 320.515137 60.935669 0.000000`
+
+**Run Tap** `setpos 726.031250 247.094040 155.643936;setang -26.654446 37.703808 0.000000`
+
 #### Coffins (B)
 
 `setpos 328.973114 1631.043701 186.031250;setang 308.842163 84.182739 0.000131`
 
-#### Long smoke (B)
+#### CT(B)
+`setpos 416.431091 1768.544800 192.542191;setang -47.716454 67.497147 -0.000001`
 
-`setpos 785.031250 -300.915161 162.930710;setang 320.515137 60.935669 0.000000`
+### Retake Banana(B)
+**Walk throw** `setpos -857.997375 437.790283 33.254772;setang -53.454433 50.409794 0.000000`
+
+### T Smokes
+
+#### Smokes off pit (A)
+
+`setpos 721.004272 48.941219 158.174011;setang 304.178467 3.999023 0.000058`
 
 #### Library smoke (A) for B execute
 
-**Jump throw**
+`setpos 941.968750 416.843353 152.496231;setang -49.208500 39.281033 0.000000`
 
-`setpos 691.053955 465.001953 153.011215;setang 345.547485 18.253784 -0.000001`
+**Jump throw**`setpos 691.053955 465.001953 153.011215;setang 345.547485 18.253784 -0.000001`
+
+#### Arches (A)
+`setpos 726.031250 220.724457 158.044708;setang -42.700455 45.032661 -0.000001`
+
+#### Library to (A) 
+`setpos 726.031250 278.770477 160.093811;setang -14.241307 31.381372 -0.000001`
+
+#### Lurk smoke appartements (A)
+`setpos 1575.951538 -274.008057 320.093811;setang -6.863504 -40.687775 0.000000`
+
 
 ### T Molotovs 
 #### Y(psilon)
