@@ -4,7 +4,7 @@ This document contains a list of common nades that are used in a professional se
 # Server config
 `nade.cfg`
 
-``` 
+```
 // Config for server
 sv_cheats 1
 sv_infinite_ammo 1
@@ -27,18 +27,18 @@ mp_restartgame 1
 Save it to `PATH_TO_YOUR_CSGO_FOLDER/csgo/cfg/nade.cfg`. Use `exec nade` to load the config.
 # Lineup helps
 * Extends crosshair over full screen:
-  `bind "key" "toggle cl_crosshairsize 3 1000"`.
+`bind "key" "toggle cl_crosshairsize 3 1000"`.
 
 * Switches hand in which the grenade/gun is held:
-  `bind "key" "incrementvar cl_righthand 0 1 1"`.
+`bind "key" "incrementvar cl_righthand 0 1 1"`.
 
 * View model for easier lineups
-  ```
-  viewmodel_fov 68; viewmodel_offset_x 2.5; viewmodel_offset_y 0; viewmodel_offset_z -1.5; viewmodel_presetpos 3;   cl_viewmodel_shift_left_amt 1.5; cl_viewmodel_shift_right_amt 0.75; viewmodel_recoil 1; cl_righthand 1;
-  ```
+```
+viewmodel_fov 68; viewmodel_offset_x 2.5; viewmodel_offset_y 0; viewmodel_offset_z -1.5; viewmodel_presetpos 3;   cl_viewmodel_shift_left_amt 1.5; cl_viewmodel_shift_right_amt 0.75; viewmodel_recoil 1; cl_righthand 1;
+```
 
 # How to use
-Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg` and copy & paste the `setpos` commands into your console. 
+Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg` and copy & paste the `setpos` commands into your console.
 
 # Maps
 
@@ -60,9 +60,10 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 
 `setpos 964.412109 434.006866 152.087219;setang 315.900879 13.013306 0.000000`
 
-##### Long smoke (A)
+##### A Long smoke 1
 
 `setpos 785.031250 -300.915161 162.930710;setang 320.515137 60.935669 0.000000`
+##### A Long smoke 2
 
 **Run Tap** `setpos 726.031250 247.094040 155.643936;setang -26.654446 37.703808 0.000000`
 
@@ -76,15 +77,20 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 ##### Retake Banana(B)
 **Walk throw** `setpos -857.997375 437.790283 33.254772;setang -53.454433 50.409794 0.000000`
 
-#### Molotovs 
+#### Molotovs
 ##### Y(psilon)
 128 Tick **Jump throw** `setpos 479.274384 2017.968750 192.471924;setang -39.546974 121.153725 0.000000`
 
 64 Tick **Jump Throw** `setpos 479.274414 2017.968750 192.471909;setang -41.240112 121.149559 0.000000`
-##### Oranges 
+##### Oranges
 `setpos 339.975311 2027.880859 192.093811;setang -49.208973 82.636124 0.000000`
 #### Flashes
-
+##### Deep site A (Pit,Balcony, Graveyard)
+`setpos 955.806030 589.968750 152.282990;setang -14.625255 -20.083834 0.000000`
+##### Porch
+`setpos 1061.481323 559.136841 167.569931;setang -23.389874 -25.123331 0.000000`
+##### Long
+`setpos 726.005188 245.684387 155.601730;setang -22.597399 40.981949 0.000000` works well with [Run Tap: Long smoke](a-long-smoke-2)
 ### Non-Essentials CT
 #### Smokes
 #### Molotovs
@@ -108,7 +114,7 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 ##### Arches (A)
 `setpos 726.031250 220.724457 158.044708;setang -42.700455 45.032661 -0.000001`
 
-##### Library to (A) 
+##### Library to (A)
 `setpos 726.031250 278.770477 160.093811;setang -14.241307 31.381372 -0.000001`
 
 ##### Lurk smoke appartements (A)
@@ -128,16 +134,16 @@ far `setpos 460.446472 1828.490479 200.176590;setang -22.988878 84.052841 0.0000
 `setpos 713.890991 -267.824280 163.031250;setang 357.445679 32.250366 0.000000`
 
 **Run + Jump throw** (catches spawns for balcony)
-`setpos -587.579895 -180.589066 66.472725;setang -1.161596 6.563180 0.000000`
+	`setpos -587.579895 -180.589066 66.472725;setang -1.161596 6.563180 0.000000`
 
 ##### A Short fallback cutoff
-`setpos 883.255615 -51.010601 360.093811;setang -20.507210 2.312677 0.000000`
+	`setpos 883.255615 -51.010601 360.093811;setang -20.507210 2.312677 0.000000`
 
 ##### A Long fallback cutoff
-`setpos 883.255615 -51.010601 360.093811;setang 8.744024 61.554276 0.000000`
+	`setpos 883.255615 -51.010601 360.093811;setang 8.744024 61.554276 0.000000`
 
 ##### Upper Banana cutoff
-`setpos -79.450539 1330.017334 170.773438;setang -23.337646 45.860989 0.000000`
+	`setpos -79.450539 1330.017334 170.773438;setang -23.337646 45.860989 0.000000`
 
 
 ## Train
@@ -146,13 +152,13 @@ far `setpos 460.446472 1828.490479 200.176590;setang -22.988878 84.052841 0.0000
 
 #### Connector smoke for B
 
-**Break window before the throw**
+	**Break window before the throw**
 
-`setpos -653.997253 -484.619720 80.031250;setang 317.982788 352.254639 0.00000`
+	`setpos -653.997253 -484.619720 80.031250;setang 317.982788 352.254639 0.00000`
 
 #### Electric (A)
 
-`setpos -755.606750 1447.796631 -158.565170;setang 308.600464 295.015869 -0.000042` 
+	`setpos -755.606750 1447.796631 -158.565170;setang 308.600464 295.015869 -0.000042`
 
 #### Between green and red (A)
-`setpos -821.888062 1268.460083 -158.968750;setang 322.399292 316.851196 0.000002`
+	`setpos -821.888062 1268.460083 -158.968750;setang 322.399292 316.851196 0.000002`
