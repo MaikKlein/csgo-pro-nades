@@ -64,11 +64,8 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 `setpos 691.053955 465.001953 153.011215;setang 345.547485 18.253784 -0.000001`
 
 ### T Molotovs 
-#### A Short fallback cutoff
-`setpos 883.255615 -51.010601 360.093811;setang -20.507210 2.312677 0.000000`
-
-#### A Long fallback cutoff
-`setpos 883.255615 -51.010601 360.093811;setang 8.744024 61.554276 0.000000`
+#### Y(psilon)
+**Jump throw**`setpos 479.274384 2017.968750 192.471924;setang -39.546974 121.153725 0.000000`
 
 #### Boiler
 
@@ -77,6 +74,12 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 
 **Run + Jump throw** (catches spawns for balcony)
 `setpos -587.579895 -180.589066 66.472725;setang -1.161596 6.563180 0.000000`
+
+#### A Short fallback cutoff
+`setpos 883.255615 -51.010601 360.093811;setang -20.507210 2.312677 0.000000`
+
+#### A Long fallback cutoff
+`setpos 883.255615 -51.010601 360.093811;setang 8.744024 61.554276 0.000000`
 
 #### Upper Banana cutoff
 `setpos -79.450539 1330.017334 170.773438;setang -23.337646 45.860989 0.000000`
