@@ -65,7 +65,7 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 `setpos 785.031250 -300.915161 162.930710;setang 320.515137 60.935669 0.000000`
 ##### A Long smoke 2
 
-**Run Tap** `setpos 726.031250 247.094040 155.643936;setang -26.654446 37.703808 0.000000`
+**Run Tap** `setpos 726.031250 247.094040 155.643936;setang -26.654446 37.703808 0.000000` works well with [Flash Long A](#a-long-flash)
 
 ##### Coffins (B)
 
@@ -89,8 +89,8 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 `setpos 955.806030 589.968750 152.282990;setang -14.625255 -20.083834 0.000000`
 ##### Porch
 `setpos 1061.481323 559.136841 167.569931;setang -23.389874 -25.123331 0.000000`
-##### Long
-`setpos 726.005188 245.684387 155.601730;setang -22.597399 40.981949 0.000000` works well with [Run Tap: Long smoke](a-long-smoke-2)
+##### A Long Flash
+`setpos 726.005188 245.684387 155.601730;setang -22.597399 40.981949 0.000000` works well with [Run Tap: Long smoke](#a-long-smoke-2)
 ### Non-Essentials CT
 #### Smokes
 #### Molotovs
