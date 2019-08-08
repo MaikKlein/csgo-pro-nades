@@ -27,9 +27,10 @@ mp_restartgame 1
 Save it to `PATH_TO_YOUR_CSGO_FOLDER/csgo/cfg/nade.cfg`. Use `exec nade` to load the config.
 # Lineup helps
 Extends crosshair over full screen:
-`bind "key" "toggle cl_crosshairsize 3 1000"`
+`bind "key" "toggle cl_crosshairsize 3 1000"`.
+
 Switches hand in which the grenade/gun is held:
-`bind "key" "incrementvar cl_righthand 0 1 1"`
+`bind "key" "incrementvar cl_righthand 0 1 1"`.
 
 # How to use
 Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg` and copy & paste the `setpos` commands into your console. 
