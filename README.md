@@ -126,7 +126,7 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 
 ## Train
 
-## T Smokes
+### T Smokes
 
 #### Connector smoke for B
 
