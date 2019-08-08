@@ -1,5 +1,5 @@
 # Pro nades
-This document contains a list of common nades that are using in a professional setting. All nades are recorded on 128 tick. Nades that don't work on 64 tick will have an addiontal `setpos` command.
+This document contains a list of common nades that are used in a professional setting. All nades are recorded on 128 tick server. Nades that don't work on 64 tick server will have an addiontal `setpos` command.
 
 # Server config
 `nade.cfg`
