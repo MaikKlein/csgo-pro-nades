@@ -74,6 +74,8 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 
 **Jump throw**
 `setpos 713.890991 -267.824280 163.031250;setang 357.445679 32.250366 0.000000`
+**Run + Jump throw** (catches spawns for balcony)
+`setpos -587.579895 -180.589066 66.472725;setang -1.161596 6.563180 0.000000`
 
 ### CT Smokes
 
