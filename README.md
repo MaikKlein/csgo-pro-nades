@@ -71,6 +71,7 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 ### T Molotovs 
 #### Y(psilon)
 128 Tick **Jump throw** `setpos 479.274384 2017.968750 192.471924;setang -39.546974 121.153725 0.000000`
+
 64 Tick **Jump Throw** `setpos 479.274414 2017.968750 192.471909;setang -41.240112 121.149559 0.000000`
 
 #### Boiler
