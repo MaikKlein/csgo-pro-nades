@@ -25,6 +25,11 @@ mp_buy_anywhere 1
 mp_restartgame 1
 ```
 Save it to `PATH_TO_YOUR_CSGO_FOLDER/csgo/cfg/nade.cfg`. Use `exec nade` to load the config.
+# Lineup helps
+Extends crosshair over full screen:
+`bind "key" "toggle cl_crosshairsize 3 1000"`
+Switches hand in which the grenade/gun is held:
+`bind "key" "incrementvar cl_righthand 0 1 1"`
 
 # How to use
 Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg` and copy & paste the `setpos` commands into your console. 
@@ -58,6 +63,11 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 `setpos 691.053955 465.001953 153.011215;setang 345.547485 18.253784 -0.000001`
 
 ### T Molotovs 
+#### A Short fallback cutoff
+`setpos 883.255615 -51.010601 360.093811;setang -20.507210 2.312677 0.000000`
+
+#### A Long fallback cutoff
+`setpos 883.255615 -51.010601 360.093811;setang 8.744024 61.554276 0.000000`
 
 #### Boiler
 
