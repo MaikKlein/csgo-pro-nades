@@ -34,10 +34,7 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 
 ## Inferno
 
-### CT
-
-### T
-
+### T Smokes
 #### Smokes off pit (A)
 
 `setpos 721.004272 48.941219 158.174011;setang 304.178467 3.999023 0.000058`
@@ -59,3 +56,10 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 **Jump throw**
 
 `setpos 691.053955 465.001953 153.011215;setang 345.547485 18.253784 -0.000001`
+
+### T Molotovs 
+
+#### Boiler
+
+**Jump throw**
+`setpos 713.890991 -267.824280 163.031250;setang 357.445679 32.250366 0.000000`
