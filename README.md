@@ -69,4 +69,4 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 #### Lower Banana
 
 **Jump throw**
-`setpos 1263.402222 2981.929199 197.653809;setang -7.655983 -125.666908 0.000000
+`setpos 1263.402222 2981.929199 197.653809;setang -7.655983 -125.666908 0.000000`
