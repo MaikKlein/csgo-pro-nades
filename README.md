@@ -63,3 +63,10 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 
 **Jump throw**
 `setpos 713.890991 -267.824280 163.031250;setang 357.445679 32.250366 0.000000`
+
+### CT Smokes
+
+#### Lower Banana
+
+**Jump throw**
+`setpos 1263.402222 2981.929199 197.653809;setang -7.655983 -125.666908 0.000000
