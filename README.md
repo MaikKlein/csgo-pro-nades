@@ -52,7 +52,12 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 **Jump throw**
 `setpos 1263.402222 2981.929199 197.653809;setang -7.655983 -125.666908 0.000000` works well with [Banana Flash 1](#banana-flash-1)
 #### Molotovs
+##### Short Execute Divide
+`setpos 2164.800781 387.175568 224.093811;setang -18.004961 -134.230881 0.000000`
+
 #### Flashes
+##### Upper Banana Crunch Flash
+`setpos 535.968750 3100.484619 270.093811;setang -17.582411 -84.110664 0.000000` flash further to the right for lower banana
 ##### Banana Flash 1
 `setpos 1130.031250 2796.732666 192.080154;setang -29.024628 -144.955429 -0.000001` works well with  [Lower Banana Smoke 1](#lower-banana-smoke-1)
 ### Essentials T
@@ -134,17 +139,18 @@ far `setpos 460.446472 1828.490479 200.176590;setang -22.988878 84.052841 0.0000
 **Jump throw**
 `setpos 713.890991 -267.824280 163.031250;setang 357.445679 32.250366 0.000000`
 
-**Run + Jump throw** (catches spawns for balcony)
-	`setpos -587.579895 -180.589066 66.472725;setang -1.161596 6.563180 0.000000`
+**Run + Jump throw** catches spawns for balcony
+
+`setpos -587.579895 -180.589066 66.472725;setang -1.161596 6.563180 0.000000`
 
 ##### A Short fallback cutoff
-	`setpos 883.255615 -51.010601 360.093811;setang -20.507210 2.312677 0.000000`
+`setpos 883.255615 -51.010601 360.093811;setang -20.507210 2.312677 0.000000`
 
 ##### A Long fallback cutoff
-	`setpos 883.255615 -51.010601 360.093811;setang 8.744024 61.554276 0.000000`
+`setpos 883.255615 -51.010601 360.093811;setang 8.744024 61.554276 0.000000`
 
 ##### Upper Banana cutoff
-	`setpos -79.450539 1330.017334 170.773438;setang -23.337646 45.860989 0.000000`
+`setpos -79.450539 1330.017334 170.773438;setang -23.337646 45.860989 0.000000`
 
 
 ## Train
@@ -153,13 +159,13 @@ far `setpos 460.446472 1828.490479 200.176590;setang -22.988878 84.052841 0.0000
 
 #### Connector smoke for B
 
-	**Break window before the throw**
+**Break window before the throw**
 
-	`setpos -653.997253 -484.619720 80.031250;setang 317.982788 352.254639 0.00000`
+`setpos -653.997253 -484.619720 80.031250;setang 317.982788 352.254639 0.00000`
 
 #### Electric (A)
 
-	`setpos -755.606750 1447.796631 -158.565170;setang 308.600464 295.015869 -0.000042`
+`setpos -755.606750 1447.796631 -158.565170;setang 308.600464 295.015869 -0.000042`
 
 #### Between green and red (A)
-	`setpos -821.888062 1268.460083 -158.968750;setang 322.399292 316.851196 0.000002`
+`setpos -821.888062 1268.460083 -158.968750;setang 322.399292 316.851196 0.000002`
