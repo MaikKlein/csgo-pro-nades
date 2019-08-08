@@ -53,3 +53,9 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 > Long smoke (B)
 
 `setpos 785.031250 -300.915161 162.930710;setang 320.515137 60.935669 0.000000`
+
+> Library smoke (A) for B execute
+
+**Jump throw**
+
+`setpos 691.053955 465.001953 153.011215;setang 345.547485 18.253784 -0.000001`
