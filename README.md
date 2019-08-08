@@ -38,23 +38,23 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 
 ### T
 
-> Smokes off pit (A)
+#### Smokes off pit (A)
 
 `setpos 721.004272 48.941219 158.174011;setang 304.178467 3.999023 0.000058`
 
-> Scooter (A)
+#### Scooter (A)
 
 `setpos 964.412109 434.006866 152.087219;setang 315.900879 13.013306 0.000000`
 
-> Coffins (B)
+#### Coffins (B)
 
 `setpos 328.973114 1631.043701 186.031250;setang 308.842163 84.182739 0.000131`
 
-> Long smoke (B)
+#### Long smoke (B)
 
 `setpos 785.031250 -300.915161 162.930710;setang 320.515137 60.935669 0.000000`
 
-> Library smoke (A) for B execute
+#### Library smoke (A) for B execute
 
 **Jump throw**
 
