@@ -133,3 +133,10 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 **Break window before the throw**
 
 `setpos -653.997253 -484.619720 80.031250;setang 317.982788 352.254639 0.00000`
+
+#### Electric (A)
+
+`setpos -755.606750 1447.796631 -158.565170;setang 308.600464 295.015869 -0.000042` 
+
+#### Between green and red (A)
+`setpos -821.888062 1268.460083 -158.968750;setang 322.399292 316.851196 0.000002`
