@@ -47,13 +47,14 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 
 ### Essentials CT
 #### Smokes
-##### Lower Banana
+##### Lower Banana Smoke 1
 
 **Jump throw**
-`setpos 1263.402222 2981.929199 197.653809;setang -7.655983 -125.666908 0.000000`
+`setpos 1263.402222 2981.929199 197.653809;setang -7.655983 -125.666908 0.000000` works well with [Banana Flash 1](#banana-flash-1)
 #### Molotovs
 #### Flashes
-
+##### Banana Flash 1
+`setpos 1130.031250 2796.732666 192.080154;setang -29.024628 -144.955429 -0.000001` works well with  [Lower Banana Smoke 1](#lower-banana-smoke-1)
 ### Essentials T
 #### Smokes
 ##### Scooter (A)
