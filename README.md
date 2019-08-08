@@ -89,14 +89,17 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 `setpos 1575.951538 -274.008057 320.093811;setang -6.863504 -40.687775 0.000000`
 
 
-### T Molotovs 
+### Essential T Molotovs 
 #### Y(psilon)
 128 Tick **Jump throw** `setpos 479.274384 2017.968750 192.471924;setang -39.546974 121.153725 0.000000`
 
 64 Tick **Jump Throw** `setpos 479.274414 2017.968750 192.471909;setang -41.240112 121.149559 0.000000`
+### T Molotovs
+
+#### Dark
+`setpos 433.114990 1796.536011 290.093811;setang -15.016454 104.068237 0.000000`
 
 #### Boiler
-
 **Jump throw**
 `setpos 713.890991 -267.824280 163.031250;setang 357.445679 32.250366 0.000000`
 
@@ -117,3 +120,6 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 
 **Jump throw**
 `setpos 1263.402222 2981.929199 197.653809;setang -7.655983 -125.666908 0.000000`
+
+#### Appartements Retake B
+`setpos 1983.599365 1225.968750 238.093811;setang -34.763512 -89.276062 0.000000`
