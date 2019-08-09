@@ -163,10 +163,11 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 ## Train
 ### Essential CT
 #### Smokes
-##### Train A main
+##### Train A main smoke
 `setpos 694.031250 -65.697769 -151.906189;setang -55.598461 156.632553 0.000000`
-#### Train A main
-**Run Tap**`setpos 623.988342 -478.736389 -155.078903;setang -22.651201 140.168472 0.000000`
+#### Molotovs
+##### Train A main molotov
+**Run Tap** `setpos 623.988342 -478.736389 -155.078903;setang -22.651201 140.168472 0.000000`
 ### Essential T
 #### Smokes
 
