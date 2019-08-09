@@ -109,6 +109,8 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 
 #### Smokes of scooter from pit
 
+*Jump Throw*
+
 `setpos 2633.996826 -473.968750 152.974747;setang 349.222412 99.700928 0.000000`
 
 ##### Smokes off pit (A)
