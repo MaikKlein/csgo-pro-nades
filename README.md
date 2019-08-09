@@ -107,7 +107,7 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 ### Non-Essentials T
 #### T Smokes
 
-#### Smokes of scooter from pit
+#### Smokes off scooter from pit
 
 **Jump Throw**
 
