@@ -140,7 +140,7 @@ Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg
 #### Molotovs
 
 ##### Dark
-**Run throw** `setpos 433.114990 1796.536011 290.093811;setang -15.016454 104.068237 0.000000`
+**Run throw** `setpos 433.114990 1796.536011 280.093811;setang -15.016454 104.068237 0.000000`
 
 ##### Boiler
 **Jump throw**
