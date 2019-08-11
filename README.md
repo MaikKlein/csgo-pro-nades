@@ -1,6 +1,15 @@
 # Pro nades
 This document contains a list of common nades that are used in a professional setting. All nades are recorded on 128 tick server. Nades that don't work on 64 tick server will have an addiontal `setpos` command.
 
+
+# How to use
+Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg` and copy & paste the `setpos` commands into your console.
+
+# Maps
+
+* [Inferno](inferno.md)
+* [Train](train.md)
+
 # Server config
 `nade.cfg`
 
@@ -36,14 +45,3 @@ Save it to `PATH_TO_YOUR_CSGO_FOLDER/csgo/cfg/nade.cfg`. Use `exec nade` to load
 ```
 viewmodel_fov 68; viewmodel_offset_x 2.5; viewmodel_offset_y 0; viewmodel_offset_z -1.5; viewmodel_presetpos 3;   cl_viewmodel_shift_left_amt 1.5; cl_viewmodel_shift_right_amt 0.75; viewmodel_recoil 1; cl_righthand 1;
 ```
-
-# How to use
-Just make sure to enable `sv_cheats 1` which is already enabled in the `nade.cfg` and copy & paste the `setpos` commands into your console.
-
-# Maps
-
-* [Inferno](inferno.md)
-
-* [Train](train.md)
-
-
