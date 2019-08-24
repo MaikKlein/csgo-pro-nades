@@ -15,6 +15,8 @@
 `setpos 535.968750 3100.484619 270.093811;setang -17.582411 -84.110664 0.000000` flash further to the right for lower banana
 ### Banana Flash 1
 **Duck** `setpos 1130.031250 2796.732666 192.080154;setang -29.024628 -144.955429 -0.000001` works well with  [Lower Banana Smoke 1](#lower-banana-smoke-1)
+### Mid Awp (Re-)Peak
+`setpos 1517.968750 792.031250 139.954315; setang 343.981934 204.955444 0.0`
 ## Essentials T
 ## Smokes
 ### Scooter (A)
@@ -46,6 +48,18 @@
 ### Oranges
 **Jump throw** `setpos 339.975311 2027.880859 192.093811;setang -49.208973 82.636124 0.000000`
 ## Flashes
+### Mid to False Mid Counter
+`setpos -14.453771 -120.399399 38.173126; setang 337.961426 11.156616 0.0`
+### Upper Banana Pop
+`setpos 68.031250 992.429810 141.854324;setang -16.895985 67.411072 0.000000`
+### B Site top of oranges
+**Jump throw** `setpos 123.456726 1514.842041 107.635246; setang 358.401489 64.654541 0.0`
+### B Site First oranges
+`setpos 479.248169 2017.988770 128.411270; setang 314.368286 89.203491 0.0`
+### B Site CT angle
+`setpos 656.111572 2074.641357 134.063339; setang 344.608154 69.675293 0.0`
+### On Site A
+**Run jump throw** `setpos 966.390137 434.031250 88.354523; setang 313.571777 1.774292 0.0`
 ### Deep site A (Pit,Balcony, Graveyard)
 **Walk jump throw** `setpos 955.806030 589.968750 152.282990;setang -14.625255 -20.083834 0.000000`
 ### Porch
@@ -80,9 +94,13 @@
 
 ### Arches (A)
 `setpos 726.031250 220.724457 158.044708;setang -42.700455 45.032661 -0.000001`
+**Jump throw**
+`setpos 217.312775 -203.968750 77.031250; setang 340.301514 42.231445 0.0`
 
 ### Library to (A)
 **Jump throw** `setpos 726.031250 278.770477 160.093811;setang -14.241307 31.381372 -0.000001`
+### Arches wrap site cut-off
+`setpos 295.968750 644.000122 84.093811;setang -19.959703 -8.945191 0.00000`
 
 ### Lurk smoke appartements (A)
 `setpos 1575.951538 -274.008057 320.093811;setang -6.863504 -40.687775 0.000000`

@@ -3,9 +3,24 @@
 ## Smokes
 ### Train A main smoke
 `setpos 694.031250 -65.697769 -151.906189;setang -55.598461 156.632553 0.000000`
+### Train B offensive
+**Run walk**`setpos 334.821899 -836.031250 -255.906189;setang 0.665518 179.847610 0.000000`
 ## Molotovs
 ### Train A main molotov
 **Run Tap** `setpos 623.988342 -478.736389 -155.078903;setang -22.651201 140.168472 0.000000`
+### Train Bomb A
+`setpos 697.747925 -669.968750 -147.906189;setang -4.350570 118.151276 0.000000` (be sure you can line this up with a connector smoke)
+## Flashbangs
+### Left side bomb train peak
+`setpos 539.726318 -81.397789 -65.768097;setang -46.411087 -153.507477 0.000000`
+### Electric from bomb train
+**Back run walk** `setpos 530.748230 -64.338631 -66.535690;setang -11.985524 172.329239 0.000000`
+### Olof from bomb train
+`setpos 532.346069 -68.296867 -66.332779;setang -13.041517 127.343697 0.000000`
+### Green Train to ivy from bomb train
+`setpos 528.827026 -59.579079 -66.786987;setang -5.300872 42.072693 0.000000`
+### Red Train to ivy (offensive) from bomb tain
+`setpos 528.827026 -59.579079 -66.786987;setang -5.300872 42.072693 0.000000`
 ## Essential T
 ## Smokes
 
@@ -45,6 +60,10 @@
 ### Pop Dog cut off
 `setpos -613.299744 -449.351837 65.093811;setang -54.299225 44.076206 0.000000`
 
+## Non-Essentials CT
+## Molotovs
+### Train B bomb plant delay
+**Walk Tap** `setpos 1069.968750 -783.698242 -186.751633;setang -13.907332 -160.637695 0.000000`
 
 ## Non-Essentials T
 ## Smoke
