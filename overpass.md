@@ -114,21 +114,21 @@
 |Smoke |[Truck](#truck)   | [A site](#a-site)  | (+ [Long Truck](#long-truck))                     |
 
 ### B short
-|/| Player 1           | Player 2  |
+|/| Player 1         | Player 2  |
 |--------------------|--------------------|-----------|
-|Smoke               | [Toxic](#toxic)    | [B Ramp](#b-ramp) |
-|Molotov             | [Heaven](#heaven)  | [B Bomb Site for short](#b-bomb-site-for-short) |
+|Smoke               | [Heaven](#heaven)  | [B Bomb Site for short](#b-bomb-site-for-short) |
+|Molotov             | [Toxic](#toxic)    | [B Ramp](#b-ramp) |
 
 ### B long
 |/      | Player 1                         | Player 2          |
 |-------|----------------------------------|-------------------|
-|Smoke  | [heaven](#heaven)                | [B short](#b-bomb-site-for-short) or [Graffiti](#graffiti-smoke) |
-|Molotov| [toxic](#toxic)                  | |
-|Flash  | [monster](#monster-exit)         | |
+|Smoke  | [Heaven](#heaven)                | [B short](#b-bomb-site-for-short) or [Graffiti](#graffiti-smoke) |
+|Molotov| [Toxic](#toxic)                  | |
+|Flash  | [Monster](#monster-exit)         | |
 
 ### B wall
 |/      | Player 1         | Player 2           | Player 3                                          |
 |-------|------------------|--------------------|---------------------------------------------------|
 |Smoke  |[Heaven](#heaven) | [Wall 1](#graffiti-smoke)  | [Wall 2](#b-back-site)                    |
 |Molotov|[Toxic](#toxic)| | |
-|Flash  | [monster](#monster-exit)         | |
+|Flash  |[Monster](#monster-exit)         | |
