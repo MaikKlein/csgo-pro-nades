@@ -71,9 +71,13 @@
 **Walk** `setpos -601.782471 -1235.773438 173.984207;setang -23.728024 99.555832 0.000000` (Monster rush)
 ### Tree on Long
 `setpos -2924.377197 -1864.314453 549.916260;setang -22.862371 151.897339 0.000000`
+### B-short control
+`setpos -432.011047 -2238.684326 208.879868;setang -20.275265 107.441887 0.000000`
 ## Flashbangs
 ### Monster exit
 **Walk tap** `setpos -655.968750 -1019.138794 89.478012;setang -29.588665 66.699768 0.000000`
+### B Pillar Flash
+**Run throw** `setpos -589.968018 -1111.790649 116.023087;setang -27.667072 112.320862 0.000000`
 ## Essential CT
 ## Smoke
 ### Never miss B-short smoke
@@ -100,6 +104,8 @@
 ### Molotovs
 ### Tree A Long
 `setpos -2924.377197 -1864.314453 549.916260;setang -22.862371 151.897339 0.000000`
+### Short Tunnel
+`setpos -2013.979248 154.001099 192.093811;setang -13.780859 -55.244278 0.000000`
 ## Non-Essential CT
 
 ## Basic T executes
@@ -125,10 +131,11 @@
 |Smoke  | [Heaven](#heaven)                | [B short](#b-bomb-site-for-short) or [Graffiti](#graffiti-smoke) |
 |Molotov| [Toxic](#toxic)                  | |
 |Flash  | [Monster](#monster-exit)         | |
-
+|       | [B Pillar Flash](#b-pillar-flash)| |
 ### B wall
 |/      | Player 1         | Player 2           | Player 3                                          |
 |-------|------------------|--------------------|---------------------------------------------------|
 |Smoke  |[Heaven](#heaven) | [Wall 1](#graffiti-smoke)  | [Wall 2](#b-back-site)                    |
 |Molotov|[Toxic](#toxic)| | |
 |Flash  |[Monster](#monster-exit)         | |
+|       |[B Pillar Flash](#b-pillar-flash)| |
