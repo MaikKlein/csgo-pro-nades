@@ -42,7 +42,7 @@
 ### B Bomb Site for short
 `setpos -1262.834595 -689.815857 86.443100;setang -17.181404 34.120823 0.000000`
 
-`setpos -201.541809 -918.334167 94.718086;setang -24.572784 143.358597 0.000000`
+`setpos -1262.834595 -689.815857 70.0;setang -17.181404 34.120823 0.000000`
 ### Heaven
 `setpos -1559.968750 -728.767456 117.700737;setang -28.585604 97.855682 0.000000` works well with [Graffiti molotov](#graffiti) or [B Ramp molotov](#b-ramp)
 
@@ -52,8 +52,10 @@
 
 **Run Jump Throw** `setpos -588.094666 -2027.998901 214.608795;setang -3.274856 113.098862 0.000000`
 
-### B back-site
+### B back site
 `setpos -615.371582 -1513.278564 145.029694; setang 305.650635 125.343018 0.0`
+### Graffiti smoke
+**Jump throw** `setpos -437.286865 -1856.031250 208.710144;setang -17.969736 135.784805 0.000000`
 ## Molotov
 ### Connector
 `setpos -1823.968750 -1140.742920 160.093811;setang -27.403133 18.938189 0.000000`
@@ -101,8 +103,32 @@
 ## Non-Essential CT
 
 ## Basic T executes
-## A split
-| Player 1         | Player 2      | Player 3                                          |
-|------------------|---------------|---------------------------------------------------|
-|[Stairs](#stairs) | [Bank](#bank) | (+ [Reverse default Plan](#reverse-default-plant))|
+### A split
+|/| Player 1         | Player 2      | Player 3                                          |
+|-|------------------|---------------|---------------------------------------------------|
+|Smoke |[Stairs](#stairs) | [Bank](#bank) | (+ [Reverse default Plant](#reverse-default-plant) or [Long Truck](#long-truck))|
 
+### A mid
+|/| Player 1         | Player 2           | Player 3                                          |
+|-|------------------|--------------------|---------------------------------------------------|
+|Smoke |[Truck](#truck)   | [A site](#a-site)  | (+ [Long Truck](#long-truck))                     |
+
+### B short
+|/| Player 1           | Player 2  |
+|--------------------|--------------------|-----------|
+|Smoke               | [Toxic](#toxic)    | [B Ramp](#b-ramp) |
+|Molotov             | [Heaven](#heaven)  | [B Bomb Site for short](#b-bomb-site-for-short) |
+
+### B long
+|/      | Player 1                         | Player 2          |
+|-------|----------------------------------|-------------------|
+|Smoke  | [heaven](#heaven)                | [B short](#b-bomb-site-for-short) or [Graffiti](#graffiti-smoke) |
+|Molotov| [toxic](#toxic)                  | |
+|Flash  | [monster](#monster-exit)         | |
+
+### B wall
+|/      | Player 1         | Player 2           | Player 3                                          |
+|-------|------------------|--------------------|---------------------------------------------------|
+|Smoke  |[Heaven](#heaven) | [Wall 1](#graffiti-smoke)  | [Wall 2](#b-back-site)                    |
+|Molotov|[Toxic](#toxic)| | |
+|Flash  | [monster](#monster-exit)         | |
