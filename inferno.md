@@ -159,6 +159,7 @@
 |Molotov|[Ypsilon](#ypsilon)          |                                  | [Dark](#dark) or [Oranges](#oranges) |
 |Flash  |                             |[Top of oranges](#top-of-oranges) |                                      |
 |       |                             |[CT angle](#ct-angle)             |                                      |
+
 wait for molotovs after smoke fade
 ### A long
 |/      | Player 1                      | Player 2                         | Player 3                               | Player 4                                      |
